@@ -42,7 +42,7 @@ A feature-rich, sci-fi themed clipboard manager for Windows with real-time monit
 ## 📦 Installation
 
 ### Option 1: Download Pre-built Executable
-1. Download `ClipHistory.exe` from the [Releases](https://github.com/riyazalsodie/ClipHistory/releases) page
+1. Download `ClipHistory.exe` from the [Releases](https://github.com/yourusername/ClipHistory/releases) page
 2. Run the executable - no installation required
 3. The app will create its data folder automatically
 
@@ -167,9 +167,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/riyazalsodie/ClipHistory/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/riyazalsodie/ClipHistory/discussions)
-- **Email**: mdriyazahmed003@gmail.com
+- **Issues**: [GitHub Issues](https://github.com/yourusername/ClipHistory/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ClipHistory/discussions)
+- **Email**: your.email@example.com
 
 ---
 
